@@ -9,7 +9,7 @@ Exemple pour crée un réseau de neurones comportant 3 couches (*layers*) :
 3. La couche de sortie et composer de **2 neurones** (*soit 2 outputs*).
 ``` Csharp
 
-    using NeuralNetwork;
+    using NeuralNetwork; 
 
     // Crée notre réseau de neurones .
     var neuralNetwork = new NeuralNetwork( new int[] { 4, 4, 2 } );
