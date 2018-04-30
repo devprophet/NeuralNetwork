@@ -3,5 +3,5 @@
 bin/
 obj/
 *.DS_Store
-*.pcsroj
+*.csroj
 *.sln
