@@ -1,0 +1,10 @@
+/Users/alexis/Projects/NeuralNetwork/NeuralNetwork/bin/Debug/netcoreapp2.0/NeuralNetwork.deps.json
+/Users/alexis/Projects/NeuralNetwork/NeuralNetwork/bin/Debug/netcoreapp2.0/NeuralNetwork.runtimeconfig.json
+/Users/alexis/Projects/NeuralNetwork/NeuralNetwork/bin/Debug/netcoreapp2.0/NeuralNetwork.runtimeconfig.dev.json
+/Users/alexis/Projects/NeuralNetwork/NeuralNetwork/bin/Debug/netcoreapp2.0/NeuralNetwork.dll
+/Users/alexis/Projects/NeuralNetwork/NeuralNetwork/bin/Debug/netcoreapp2.0/NeuralNetwork.pdb
+/Users/alexis/Projects/NeuralNetwork/NeuralNetwork/obj/Debug/netcoreapp2.0/NeuralNetwork.csproj.CoreCompileInputs.cache
+/Users/alexis/Projects/NeuralNetwork/NeuralNetwork/obj/Debug/netcoreapp2.0/NeuralNetwork.AssemblyInfoInputs.cache
+/Users/alexis/Projects/NeuralNetwork/NeuralNetwork/obj/Debug/netcoreapp2.0/NeuralNetwork.AssemblyInfo.cs
+/Users/alexis/Projects/NeuralNetwork/NeuralNetwork/obj/Debug/netcoreapp2.0/NeuralNetwork.dll
+/Users/alexis/Projects/NeuralNetwork/NeuralNetwork/obj/Debug/netcoreapp2.0/NeuralNetwork.pdb
