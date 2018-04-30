@@ -20,6 +20,7 @@ Exemple pour crée un réseau de neurones comportant 3 couches (*layers*) :
     foreach ( var output in outputs )
         Console.WriteLine ( output );
 ```
+(#t-0) 
 ### Crée une ADN a partir d'un réseau de neurones
 Exemple montrant la création d'une ADN a partir d'un réseau de neurones :
 ```csharp
