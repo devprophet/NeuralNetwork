@@ -1,6 +1,12 @@
 # Neural Network & Genetic
 API Permettant de crée et utilisé un réseau de neurones (sans back propagation), ainsi que le combiné avec l'algorithme génétique.
 
+- [Crée un réseau de neurones](#crée-un-réseau-de-neurones)
+- [Crée un réseau de neurones à partir d'une ADN](#crée-un-réseau-de-neurones-a-partie-dune-adn)
+- [Crée une ADN à partir d'un réseau de neurones](#crée-une-adn-a-partir-dun-réseau-de-neurones)
+- [Crée une ADN à partir de deux autres ADN ( CrossOver )](#crée-une-adn-à-partir-de-deux-autres-adn--crossover-)
+- [Effectuer une mutation sur une ADN ( Mutate )](#muter-une-adn--mutation-)
+
 ## Exemple
 ### Crée un réseau de neurones
 Exemple pour crée un réseau de neurones comportant 3 couches (*layers*) :
@@ -20,7 +26,6 @@ Exemple pour crée un réseau de neurones comportant 3 couches (*layers*) :
     foreach ( var output in outputs )
         Console.WriteLine ( output );
 ```
-(#t-0) 
 ### Crée une ADN a partir d'un réseau de neurones
 Exemple montrant la création d'une ADN a partir d'un réseau de neurones :
 ```csharp
